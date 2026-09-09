@@ -1,0 +1,16 @@
+provider_id,provider_name,specialty,qualification,years_experience,active_flag
+PR000001,Dr. Isaac Bakshi,Neurology,MBBS,26,True
+PR000002,Dr. Anvi Konda,Emergency Medicine,DM,12,True
+PR000003,Dr. Udant Dewan,Neurology,MD,8,True
+PR000004,Dr. Harsh Chahal,Orthopedics,MBBS,4,True
+PR000005,Dr. Pahal Balay,Pediatrics,MBBS,13,True
+PR000006,Dr. Ayushman Chander,Orthopedics,MS,27,True
+PR000007,Dr. Tejas Kaul,General Medicine,DM,19,True
+PR000008,Dr. Yashasvi Bala,Cardiology,DM,4,True
+PR000009,Dr. Rushil Saini,Neurology,MS,20,True
+PR000010,Dr. Thomas Sen,Endocrinology,MBBS,3,True
+PR000011,Dr. Arunima Ahuja,Endocrinology,MS,4,True
+PR000012,Dr. Nathaniel Sami,Endocrinology,MBBS,14,True
+PR000013,Dr. Harini Mall,Neurology,DM,22,True
+PR000014,Dr. Nachiket Kale,Orthopedics,MD,13,True
+PR000015,Dr. Gayathri Chaudry,Orthopedics,MD,23,True

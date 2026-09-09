@@ -1,0 +1,7 @@
+department_id,department_name,department_type,active_flag
+D001,Emergency,Clinical,True
+D002,Cardiology,Clinical,True
+D003,General Medicine,Clinical,True
+D004,Neurology,Clinical,True
+D005,Orthopedics,Clinical,True
+D006,Pediatrics,Clinical,True
