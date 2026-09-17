@@ -1,0 +1,9 @@
+medication_code,generic_name,brand_name,strength,dosage_form
+MED001,Paracetamol,Crocin,500 mg,Tablet
+MED002,Amoxicillin,Mox,500 mg,Capsule
+MED003,Metformin,Glycomet,500 mg,Tablet
+MED004,Amlodipine,Amlong,5 mg,Tablet
+MED005,Azithromycin,Azithral,500 mg,Tablet
+MED006,Pantoprazole,Pantop,40 mg,Tablet
+MED007,Atorvastatin,Atorva,10 mg,Tablet
+MED008,Cetirizine,Cetzine,10 mg,Tablet

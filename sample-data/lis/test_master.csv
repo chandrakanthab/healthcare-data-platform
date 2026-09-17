@@ -1,0 +1,7 @@
+test_code,test_name,specimen_type,unit,reference_range,loinc_code
+T001,Complete Blood Count,Blood,,,SYN-LOINC-001
+T002,Hemoglobin,Blood,g/dL,12-17,SYN-LOINC-002
+T003,Blood Glucose,Blood,mg/dL,70-100,SYN-LOINC-003
+T004,Creatinine,Blood,mg/dL,0.6-1.3,SYN-LOINC-004
+T005,Total Cholesterol,Blood,mg/dL,<200,SYN-LOINC-005
+T006,Urine Routine,Urine,,Normal,SYN-LOINC-006
